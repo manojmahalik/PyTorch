@@ -12,7 +12,7 @@
 - Sum of MNIST Digit and Random Number represented in Binary (Output)
 
 ## Sample Outputs 
-![Sample Outputs](Sample 1.JPG)
+![Sample Outputs]("Sample 1.JPG")
 
-![Sample Outputs](Sample 2.JPG)
+![Sample Outputs]("Sample 2.JPG")
 
