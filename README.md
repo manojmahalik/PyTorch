@@ -11,6 +11,10 @@
 - a label for the image but represented in Binary. Since max MNIST digit is 9 hence **four bits** are enough to represent the number. (Output)
 - Sum of MNIST Digit and Random Number represented in Binary. Max addition output is 18 hence **5 bits(Neurons)** is enough to represent the result.  (Output)
 
+### Concat flattened Image output from Conv2d with One hot Encoded Random number  
+
+![combine](combineip.JPG)
+
 
 ### Train Loss for MNIST and Adder and Accuracy details
 
