@@ -3,7 +3,6 @@
 ![Problem Statement](Assignment.JPG)
 
 
-
 ### Dataset Details:
 
 - an image from MNIST Dataset (Input),
@@ -15,9 +14,13 @@
 
 ![combine](combineip.JPG)
 
+### Convert labels and summation result into binary
+![helperfunction](helper.JPG)
+
 ### Binary Cross Entropy Loss Function
 
 Binary Cross Entropy is the negative average of the log of corrected predicted probabilities. We have a case of multi-label classification since the putput are binary number representation of actual decimal digits. So BCE function is the apt loss function to be used over here. Once loss is calculated it is backword propagated via chain rule to adjust the weights of parameters. The optimization is repeated for multiple EPOCHs to get reasonable accuracy.
+
 
 ### Max Accuracy on training for 50 epochs on Batch Size of 200 using Adam optimizer
 - Training Max accuracy on MNIST Digit Classification - 99.4  
