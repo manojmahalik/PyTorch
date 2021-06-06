@@ -1,6 +1,6 @@
 # PyTorch Assignment 
 
-
+![Problem Statement](Assignment.JPG)
 
 
 
@@ -11,4 +11,8 @@
 - a label for the image but represented in Binary (Output),
 - Sum of MNIST Digit and Random Number represented in Binary (Output)
 
+## Sample Outputs 
+![Sample Outputs](Sample 1.JPG)
+
+![Sample Outputs](Sample 2.JPG)
 
