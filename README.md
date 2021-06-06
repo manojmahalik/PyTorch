@@ -28,6 +28,8 @@ Binary Cross Entropy is the negative average of the log of corrected predicted p
 - Testing Max accuracy on MNIST Digit Classification - 98.1  
 - Testing Max accuracy on Adder function - 98.4 
 
+![loss](logs.JPG)
+
 ### Train Loss for MNIST and Adder and Accuracy details
 
 ![loss](loss.JPG)
